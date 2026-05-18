@@ -1,0 +1,51 @@
+"service_id";"provider_id";"category_id";"title";"description";"price_unit";"booking_type";"is_active";"created_at";"updated_at";"min_estimated_price";"max_estimated_price"
+1;1;1;"Home Wiring Installation";"Professional home wiring installation service.";"hour";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4612.42;10227.28
+2;2;2;"Emergency Electrical Repair";"Professional emergency electrical repair service.";"month";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";1970.08;11519.74
+3;3;3;"Full Bathroom Plumbing";"Professional full bathroom plumbing service.";"week";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";559.18;14901.02
+4;4;4;"Leak Detection & Repair";"Professional leak detection & repair service.";"hour";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3671.19;6559.96
+5;5;5;"O-Level Math Coaching";"Professional o-level math coaching service.";"day";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2113.62;16718.13
+6;6;6;"A-Level Physics Coaching";"Professional a-level physics coaching service.";"week";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";1322.39;12651.65
+7;7;7;"Business Website Build";"Professional business website build service.";"hour";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";493.81;1530.97
+8;8;8;"Monthly Website Maintenance";"Professional monthly website maintenance service.";"week";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2657.9;3921.86
+9;9;9;"Wedding Photography";"Professional wedding photography service.";"day";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";584.7;3941.83
+10;10;10;"Studio Portrait Session";"Professional studio portrait session service.";"hour";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3577.02;7154.6
+11;11;11;"Custom Furniture Making";"Professional custom furniture making service.";"hour";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3765.68;15372.94
+12;12;12;"Door & Window Fitting";"Professional door & window fitting service.";"day";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3432.75;4089.88
+13;13;13;"Interior Wall Painting";"Professional interior wall painting service.";"day";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3816.23;6746.32
+14;14;14;"Exterior Waterproofing";"Professional exterior waterproofing service.";"day";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4195.92;12414.69
+15;15;15;"Split AC Installation";"Professional split ac installation service.";"week";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3500.35;15732.6
+16;16;16;"AC Deep Cleaning";"Professional ac deep cleaning service.";"hour";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";894.53;9193.18
+17;17;17;"Brick & Block Masonry";"Professional brick & block masonry service.";"month";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";1015.23;12286.3
+18;18;18;"Floor Tiling";"Professional floor tiling service.";"week";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4381.81;5187.93
+19;19;19;"Lawn Mowing Service";"Professional lawn mowing service service.";"hour";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2866.61;6688.17
+20;20;20;"Garden Landscaping";"Professional garden landscaping service.";"month";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2168.28;15557.78
+21;21;21;"Car Engine Service";"Professional car engine service service.";"day";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3878.59;12905.6
+22;22;22;"Tyre Rotation & Balancing";"Professional tyre rotation & balancing service.";"hour";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2605.68;11225.71
+23;23;23;"Bridal Dress Stitching";"Professional bridal dress stitching service.";"month";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2132.53;5147.86
+24;24;24;"School Uniform Tailoring";"Professional school uniform tailoring service.";"day";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";1538.82;15539.33
+25;25;25;"Home Chef for Events";"Professional home chef for events service.";"week";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";1735.69;8419.32
+26;26;26;"Weekly Meal Prep";"Professional weekly meal prep service.";"hour";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2515.19;4752.42
+27;27;27;"Airport Pickup & Drop";"Professional airport pickup & drop service.";"hour";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4164.32;7840.44
+28;28;28;"Monthly Personal Driver";"Professional monthly personal driver service.";"hour";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";429.11;13511.37
+29;29;29;"Logo & Brand Identity";"Professional logo & brand identity service.";"month";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";1149.08;13993.09
+30;30;30;"Social Media Post Design";"Professional social media post design service.";"day";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";1365.68;7096.85
+31;31;31;"CCTV Installation";"Professional cctv installation service.";"hour";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";1595.86;9077.43
+32;32;32;"Security Guard Placement";"Professional security guard placement service.";"month";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3567.6;18525.61
+33;33;33;"Office Deep Cleaning";"Professional office deep cleaning service.";"hour";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3352.67;18124.22
+34;34;34;"Home Spring Cleaning";"Professional home spring cleaning service.";"week";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4628.22;12504.95
+35;35;35;"Steel Gate Fabrication";"Professional steel gate fabrication service.";"day";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";1843.04;4114.19
+36;36;36;"Grill & Railing Welding";"Professional grill & railing welding service.";"week";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4310.05;15787.57
+37;37;37;"Home Nursing Care";"Professional home nursing care service.";"day";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";1547.8;7928.72
+38;38;38;"Wound Dressing Visit";"Professional wound dressing visit service.";"day";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4836.35;17086.53
+39;39;39;"Fumigation Package";"Professional fumigation package service.";"day";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4351.75;5324.67
+40;40;40;"Rodent Trapping";"Professional rodent trapping service.";"day";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4629.75;18883.81
+41;41;41;"Laundry Pickup & Drop";"Professional laundry pickup & drop service.";"hour";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2522.13;6706.13
+42;42;42;"Dry Cleaning Service";"Professional dry cleaning service service.";"month";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4593.59;19241.91
+43;43;43;"Baby Sitting – Daytime";"Professional baby sitting – daytime service.";"month";"one_time";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2352.15;10359.35
+44;44;44;"Baby Sitting – Night";"Professional baby sitting – night service.";"day";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2862.94;5026.97
+45;45;45;"Elder Companion Service";"Professional elder companion service service.";"day";"recurring";1;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4697.96;12245.04
+46;46;46;"Pet Dog Grooming";"Professional pet dog grooming service.";"hour";"recurring";0;"2026-05-15 22:48:39";"2026-05-15 22:48:39";2299.94;16850.46
+47;47;47;"Event Decoration Setup";"Professional event decoration setup service.";"week";"one_time";0;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3216.96;12141.41
+48;48;48;"Birthday Party Planning";"Professional birthday party planning service.";"week";"one_time";0;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4535.05;8104.43
+49;49;49;"Quran Nazira Classes";"Professional quran nazira classes service.";"month";"recurring";0;"2026-05-15 22:48:39";"2026-05-15 22:48:39";3435.19;14505.5
+50;50;50;"Tajweed Certification Course";"Professional tajweed certification course service.";"week";"one_time";0;"2026-05-15 22:48:39";"2026-05-15 22:48:39";4353.58;5037.69
